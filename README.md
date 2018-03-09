@@ -6,18 +6,20 @@ This press kit repo includes:
 - [About Democracy Earth](https://github.com/DemocracyEarth/press-kit/blob/master/About-DEF.md#about-democracy-earth-foundation)
 - [Logo](https://github.com/DemocracyEarth/press-kit/blob/master/logo.md)
 - Team Bios: 
-   - Santiago Siri, Co-Founder, CEO
+   - Santiago Siri🇦, Co-Founder, CEO
    - Pia Mancini, Co-Founder, Chair
-   - Herb Stephens, Co-Founder
-   - Virgile Deville, Europe 
-   - Sandra Miller, Communications
-   - [Paula Berman, Embassies](https://github.com/DemocracyEarth/press-kit/blob/master/Paula%20Berman.md#paula-bermanembassies)
-   - Eduardo Medina, Developer
+   - Herb Stephens🇺🇸, Co-Founder
+   - Virgile Deville🇷, Europe 
+   - Sandra Miller🇺🇸, Communications
+   - [Paula Berman🇧, Embassies](https://github.com/DemocracyEarth/press-kit/blob/master/Paula%20Berman.md#paula-bermanembassies)
+   - Eduardo Medina🇻, Developer
   
 - Ambassador Bios
-   - Sunny Sangha, UK
-   - Eranda Ginige, Sri Lanka
-   - Tristan Delecomte, Thailand
+   - Sunny Sangha🇬🇧, UK
+   - Eranda Ginige🇱🇰, Sri Lanka
+   - Tristan Delecomte🇹🇭, Thailand
+   
+   
    
    
    

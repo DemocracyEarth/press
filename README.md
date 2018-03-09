@@ -3,7 +3,7 @@ A set of resources about the Democracy Earth Foundation to share with journalist
 
 This press kit repo includes: 
 
-- [About Democracy Earth](https://github.com/DemocracyEarth/press-kit/blob/master/About-DEF.md#about-democracy-earth-foundation)
+- [🌎 About Democracy Earth](https://github.com/DemocracyEarth/press-kit/blob/master/About-DEF.md#about-democracy-earth-foundation)
 - [Logo](https://github.com/DemocracyEarth/press-kit/blob/master/logo.md)
 - Team Bios: 
    - Santiago Siri🇦🇷, Co-Founder, CEO

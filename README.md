@@ -1,5 +1,5 @@
 # Democracy Earth Press Kit
-A set of ressources about the Democracy Earth Foundation to share with journalists/media inquiries.
+A set of resources about the Democracy Earth Foundation to share with journalists/media inquiries.
 
 ## About Democracy Earth Foundation 
 

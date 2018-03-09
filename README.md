@@ -11,7 +11,7 @@ This press kit repo includes:
    - Herb Stephens, Co-Founder
    - Virgile Deville, Europe 
    - Sandra Miller, Communications
-   - Paula Berman, Embassies
+   - [Paula Berman, Embassies](https://github.com/DemocracyEarth/press-kit/blob/master/Paula%20Berman.md#paula-bermanembassies)
    - Eduardo Medina, Developer
   
 - Ambassador Bios

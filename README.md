@@ -7,7 +7,7 @@ This press kit repo includes:
 - [Logo](https://github.com/DemocracyEarth/press-kit/blob/master/logo.md)
 - Team Bios: 
    - Santiago Siri🇦🇷, Co-Founder, CEO
-   - Pia Mancini🇮🇹, Co-Founder, Chair
+   - [Pia Mancini🇮🇹, Co-Founder, Chair](https://github.com/DemocracyEarth/press-kit/blob/master/Pia%20Mancini.md)
    - Herb Stephens🇺🇸, Co-Founder
    - Virgile Deville🇫🇷, Europe 
    - Sandra Miller🇺🇸, Communications

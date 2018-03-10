@@ -1,4 +1,5 @@
 # Pia Mancini.Voice
+"Our political system can be transformed with the tools the internet affords us." 
 
 ![image](https://user-images.githubusercontent.com/24529258/37236039-c489ec7c-23b8-11e8-9fea-7084933d5fef.png)
 

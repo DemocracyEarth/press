@@ -1,4 +1,4 @@
-# Herb Stephens.Co-Founder, Treasurer
+# Herb Stephens.Co-Founder
 "To thine own self be true."
 
 ![image](https://user-images.githubusercontent.com/24529258/37239564-1311f1c0-23f3-11e8-9729-72fa86643ddb.png)

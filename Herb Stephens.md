@@ -9,4 +9,4 @@ Herb is a co-founder and the Treasurer of Democracy Earth Foundation. He is a se
 
 Herb has built global e-commerce systems (world’s first online catalog technology, IPO 1998), healthcare customer service systems (as a Salesforce.com ISV global partner) and worked on the world’s largest computer and software systems (IBM, GE, NCR, Bank of America, many Wall St. banks).  
 
-Born in Flint, Michigan, Herb is the second of eight children in a household where both parents were both small-business entrepreneurs.  He studied Financial Administration at University of Michigan and Michigan State University. He has travelled, lived and worked all over the world (41 countries in total). 
+Born in Flint, Michigan, Herb is the second of eight children in a household where both parents were both small-business entrepreneurs.  He studied Financial Administration at University of Michigan and Michigan State University. He has travelled, lived and worked all over the world (41 countries in total).  Herb is an avid alpine skier, snowboarder and mountain biker. 

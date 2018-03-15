@@ -12,7 +12,7 @@ This press kit repo includes:
    - Virgile Deville🇫🇷, Europe 
    - Sandra Miller🇺🇸, Communications
    - [Paula Berman🇧🇷, Embassies](https://github.com/DemocracyEarth/press-kit/blob/master/Paula%20Berman.md#paula-bermanembassies)
-   - Eduardo Medina🇻🇪, Developer
+   - [Eduardo Medina🇻🇪, Developer](https://github.com/DemocracyEarth/press-kit/blob/master/Eduardo%20Medina.md)
   
 - Ambassador Bios
    - Sunny Sangha🇬🇧, UK

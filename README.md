@@ -9,7 +9,7 @@ This press kit repo includes:
    - Santiago Siri🇦🇷, Co-Founder, CEO
    - [Pia Mancini🇮🇹, Co-Founder, Chair](https://github.com/DemocracyEarth/press-kit/blob/master/Pia%20Mancini.md#pia-mancinivoice)
    - [Herb Stephens🇺🇸, Co-Founder](https://github.com/DemocracyEarth/press-kit/blob/master/Herb%20Stephens.md#herb-stephensco-founder)
-   - Virgile Deville🇫🇷, Europe 
+   - [Virgile Deville🇫🇷, Europe](https://github.com/DemocracyEarth/press-kit/blob/master/Virgile%20Deville.md#virgile-devilledeveloper) 
    - Sandra Miller🇺🇸, Communications
    - [Paula Berman🇧🇷, Embassies](https://github.com/DemocracyEarth/press-kit/blob/master/Paula%20Berman.md#paula-bermanembassies)
    - [Eduardo Medina🇻🇪, Developer](https://github.com/DemocracyEarth/press-kit/blob/master/Eduardo%20Medina.md#eduardo-medinadeveloper)

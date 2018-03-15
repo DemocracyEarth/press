@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/24529258/37239564-1311f1c0-23f3-11e8-9729-72fa86643ddb.png)
 
-## Herb Stephens
+## Herb Stephens🇺🇸
 
 Herb is a co-founder and the Treasurer of Democracy Earth Foundation. He is a serial software entrepreneur in Silicon Valley (typically ‘Founder and CEO’) with 25 years of experience in global corporate finance and building systems for emerging global markets, specifically focused on ‘disintermediation’ systems where power purposefully shifts to the user through technology. 
 

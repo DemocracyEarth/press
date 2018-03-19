@@ -1,7 +1,7 @@
 # Agatha Bacelar.Multimedia
 "Design is not just what it looks like and feels like. Design is how it works.".
 
-![image](https://user-images.githubusercontent.com/24529258/37628069-ced1c4e6-2b94-11e8-9a2e-da26c0fba86d.png)
+![swaggie](https://user-images.githubusercontent.com/24529258/37628081-f0cae6e0-2b94-11e8-83bd-3b4e12367cde.JPG)
 
 ## Agatha Bacelar🇧🇷🇺🇸
 

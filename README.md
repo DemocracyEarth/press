@@ -14,7 +14,9 @@ This press kit repo includes:
    - 🇺🇸Sandra Miller.Communications
    - 🇧🇷[Paula Berman.Embassies](https://github.com/DemocracyEarth/press-kit/blob/master/Paula%20Berman.md#paula-bermanembassies)
    - 🇻🇪[Eduardo Medina.Developer](https://github.com/DemocracyEarth/press-kit/blob/master/Eduardo%20Medina.md#eduardo-medinadeveloper)
-   - 🇺🇸Agatha Bacelar.Multimedia
+   - 🇺🇸[Agatha Bacelar.Multimedia](https://github.com/DemocracyEarth/press-kit/blob/master/Agatha%20Bacelar.md#agatha-bacelarmultimedia)
+   - 🇮🇨Raúl Kripalani
+   - 🇺🇦Andrey Bugayevsky
   
 - Democracy Earth Ambassador Bios
    - 🇬🇧Sunny Sangha.UK

@@ -1,5 +1,5 @@
 # Agatha Bacelar.Multimedia
-"Design is not just what it looks like and feels like. Design is how it works.".
+"I design to be a good global citizen."
 
 ![smallundercover](https://user-images.githubusercontent.com/24529258/37628450-bf259732-2b96-11e8-931e-b0734531e1a7.png)
 

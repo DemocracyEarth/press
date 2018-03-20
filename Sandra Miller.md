@@ -1,5 +1,5 @@
 # Sandra Miller.Communications
-"The medium is the message."
+"Communcation is the mortar holding every relationship together."
 
 ![sandraprofile](https://user-images.githubusercontent.com/24529258/37681784-e06eed2c-2c44-11e8-93df-85d6fa251a19.jpg)
 

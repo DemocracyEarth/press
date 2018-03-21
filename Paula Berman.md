@@ -1,4 +1,5 @@
 # Paula Berman.Embassies
+"Alone we go faster, but together we go further."
 
 
 ![image](https://user-images.githubusercontent.com/24529258/37226722-b8f04bb4-238f-11e8-9945-a8846fa0d32d.png)

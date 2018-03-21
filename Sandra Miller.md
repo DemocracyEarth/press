@@ -1,7 +1,8 @@
 # Sandra Miller.Communications
 "Communcation is the mortar holding every relationship together."
 
-![sandraprofile](https://user-images.githubusercontent.com/24529258/37681784-e06eed2c-2c44-11e8-93df-85d6fa251a19.jpg)
+![smaller sandra](https://user-images.githubusercontent.com/24529258/37696591-141cf060-2c95-11e8-9da9-b3ab25d12a7a.png)
+
 
 ## Sandra Miller🇺
 

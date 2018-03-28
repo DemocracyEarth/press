@@ -9,3 +9,5 @@
 
 A [TEDx Talker](https://youtu.be/yGmGWZCE4h0) and a partner of Bitex.la, a leading bitcoin fintech company in Latin America, Santi is a frequent contrbutor on both radio and TV. He is an alumni of HackerNews, and was recognized by TechCrunch as the father of the first global citizen with a [blockchain-based birth certificate](https://www.coindesk.com/meet-the-dad-who-registered-his-daughters-birth-on-the-blockchain/). In 2017 Santi was named a 35 under 35 [Visionary of the Year](https://twitter.com/Innovadores35/status/931350197258670080) by MIT Technology Review.  Born in Buenos Aires, Argentina, today Santi lives and works in New York City. You can find Santi on [Twitter](https://twitter.com/santisiri) and [Instagram](https://www.instagram.com/santisiri/?hl=en).
 
+[About Democracy Earth Foundation.](https://github.com/DemocracyEarth/press-kit/blob/master/README.md#democracy-earth-press-kit)
+

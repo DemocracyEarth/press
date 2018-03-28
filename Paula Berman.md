@@ -9,3 +9,5 @@
 Paula Berman heads up the [Ambassadors Program](http://bit.ly/PaulaBerman) for Democracy Earth Foundation (DEF), where she works with leaders in more than 10 countries to create local movements around liquid democracy. Prior to her work with DEF, Paula's history was one of social hacktivism: acting as Team Captain of Code for Curitiba, a group of hacker activists working to make public management better through technology, and leading the creation of Politikei, a software platform connecting citizens with Brazilian City Councils. In 2017 she was named a Young Leader of Civic Technology by Stanford University and the US National Democratic Institute. Based in 🇧🇷Brasil, Paula speaks Portuguese, Spanish, English and Hebrew. 
 
 Find Paula on Twitter at [@PaulaBerman](https://twitter.com/paulaberman_) and on [Medium](https://words.democracy.earth/@paulaberman).
+
+[About Democracy Earth Foundation.](https://github.com/DemocracyEarth/press-kit/blob/master/README.md#democracy-earth-press-kit)

@@ -9,6 +9,7 @@ Pia Mancini is the co-founder and Chair of Democracy Earth Foundation. She is a 
 
 An XLab Fellow and member of the Institute for the Future Fellow for Good, Pia is driven by the deep belief that we are 21st century citizens struggling to interact with institutions designed in the 19th century using technology from the 15th century, and the conviction that it is up to digital natives to build the technology, alliances and networks that can reboot the world's political and economic systems for the internet generation. 
 
+[About Democracy Earth Foundation.](https://github.com/DemocracyEarth/press-kit/blob/master/README.md#democracy-earth-press-kit)
 
 
  

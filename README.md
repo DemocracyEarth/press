@@ -11,7 +11,7 @@ This press kit repo includes:
    - 🌎[Pia Mancini.Co-Founder.Chair](https://github.com/DemocracyEarth/press-kit/blob/master/Pia%20Mancini.md#pia-mancinivoice)
    - 🇺🇸[Herb Stephens.Co-Founder.Treasurer](https://github.com/DemocracyEarth/press-kit/blob/master/Herb%20Stephens.md#herb-stephensco-founder)
    - 🇫🇷[Virgile Deville.Europe](https://github.com/DemocracyEarth/press-kit/blob/master/Virgile%20Deville.md#virgile-devilledeveloper) 
-   - 🇺🇸Sandra Miller.Communications
+   - 🇺🇸[Sandra Miller.Communications](https://github.com/DemocracyEarth/press-kit/blob/master/Sandra%20Miller.md#sandra-millercommunications)
    - 🇧🇷[Paula Berman.Embassies](https://github.com/DemocracyEarth/press-kit/blob/master/Paula%20Berman.md#paula-bermanembassies)
    - 🇻🇪[Eduardo Medina.Developer](https://github.com/DemocracyEarth/press-kit/blob/master/Eduardo%20Medina.md#eduardo-medinadeveloper)
    - 🇺🇸[Agatha Bacelar.Multimedia](https://github.com/DemocracyEarth/press-kit/blob/master/Agatha%20Bacelar.md#agatha-bacelarmultimedia)

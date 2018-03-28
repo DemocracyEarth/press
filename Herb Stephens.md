@@ -11,3 +11,4 @@ Herb has built global e-commerce systems (world’s first online catalog technol
 
 Born in Flint, Michigan, Herb is the second of eight children in a household where both parents were both small-business entrepreneurs.  He studied Financial Administration at University of Michigan and Michigan State University. He has travelled, lived and worked all over the world (41 countries in total).  Herb is an avid alpine skier, snowboarder and mountain biker. 
 
+[About Democracy Earth Foundation.](https://github.com/DemocracyEarth/press-kit/blob/master/README.md#democracy-earth-press-kit)

@@ -17,6 +17,7 @@ This press kit repo includes:
    - 🇺🇸[Agatha Bacelar.Multimedia](https://github.com/DemocracyEarth/press-kit/blob/master/Agatha%20Bacelar.md#agatha-bacelarmultimedia)
    - 🇮🇨Raúl Kripalani
    - 🇺🇦Andrey Bugayevsky
+   - 🇫🇷Lucas Isasmendi
   
 - Democracy Earth Ambassador Bios
    - 🇬🇧Sunny Sangha.UK

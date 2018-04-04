@@ -1,7 +1,7 @@
 # Andrey Bugayevsky.Project Management
 "From a drop of water, you should be able to imagine ice, steam, oceans."
 
-![andrey profile photo](https://user-images.githubusercontent.com/24529258/38319871-cdcaf072-37e7-11e8-9476-b2a9555eb4f2.JPG)
+![andreysmall](https://user-images.githubusercontent.com/24529258/38320024-4918d2f8-37e8-11e8-8457-a1ceff633c57.png)
 
 ## Andrey Bugayevsky 🇺🇦
 Andrey received his Masters in physics in 2012 and immediately began his digital career, starting in marketing and PR and migrating to product and project management, coaching and operations with software development teams. He was an activist during the democratic reform movement that swept Ukraine during 2014, and one of the first orgnaizers of the Ukraine faction of Code Clube (now IT2SCHOOL), in Odessa and the surrounding region, a project that provides free IT education for kids from 8 to 16 years old. 

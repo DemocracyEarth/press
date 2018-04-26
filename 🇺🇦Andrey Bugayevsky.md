@@ -1,4 +1,4 @@
-# Andrey Bugayevsky.Project Management
+# Andrey Bugayevsky.ICO
 "From a drop of water, you should be able to imagine ice, steam, oceans."
 
 ![andreysmall](https://user-images.githubusercontent.com/24529258/38320024-4918d2f8-37e8-11e8-8457-a1ceff633c57.png)

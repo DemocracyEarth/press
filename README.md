@@ -16,7 +16,7 @@ This press kit repo includes:
    - 🇻🇪 [Eduardo Medina.Developer](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BB%F0%9F%87%AAEduardo%20Medina.md#eduardo-medinadeveloper)
    - 🇺🇸 [Agatha Bacelar.Multimedia](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%BA%F0%9F%87%B8Agatha%20Bacelar.md#agatha-bacelarmultimedia)
    - 🇮🇨 Raúl Kripalani
-   - 🇺🇦 [Andrey Bugayevsky.Projects](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BA%F0%9F%87%A6Andrey%20Bugayevsky.md#andrey-bugayevskyproject-management)
+   - 🇺🇦 [Andrey Bugayevsky.ICO](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BA%F0%9F%87%A6Andrey%20Bugayevsky.md#andrey-bugayevskyproject-management)
    - 🇫🇷 Lucas Isasmendi
    - 🇬🇧 Alex Jupiter
   

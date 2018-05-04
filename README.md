@@ -18,14 +18,15 @@ This press kit repo includes:
    - 🇮🇨 Raúl Kripalani
    - 🇺🇦 [Andrey Bugayevsky.ICO](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BA%F0%9F%87%A6Andrey%20Bugayevsky.md#andrey-bugayevskyproject-management)
    - 🇫🇷 Lucas Isasmendi
-   - 🇬🇧 Alex Jupiter
+   - 🇬🇧 [Alex Jupiter](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%AC%F0%9F%87%A7AlexJupiter.md#alex-jupiterdesign)
   
 - Democracy Earth Ambassador Bios
    - 🇬🇧 Sunny Sangha.UK
    - 🇱🇰 Eranda Ginige.Sri Lanka
    - 🇹🇭 Tristan Delecomte.Thailand
-   - 🇧🇷 Diogo Busse, Brazil
-   - 🇦🇺 Andrew Dave Chambers, Australia
+   - 🇧🇷 Diogo Busse.Brazil
+   - 🇦🇺 Andrew Dave Chambers.Australia
+   - 🇺🇸 Hannah Wolfman-Jone.Chicago
    
    
    

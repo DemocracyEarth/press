@@ -20,13 +20,14 @@ This press kit repo includes:
    - 🇫🇷 Lucas Isasmendi
    - 🇬🇧 [Alex Jupiter](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%AC%F0%9F%87%A7AlexJupiter.md#alex-jupiterdesign)
   
-- Democracy Earth Ambassador Bios
-   - 🇬🇧 Sunny Sangha.UK
-   - 🇱🇰 Eranda Ginige.Sri Lanka
-   - 🇹🇭 Tristan Delecomte.Thailand
-   - 🇧🇷 Diogo Busse.Brazil
-   - 🇦🇺 Andrew Dave Chambers.Australia
-   - 🇺🇸 Hannah Wolfman-Jone.Chicago
+- Democracy Earth Ambassador Introductions
+   - 🇬🇧 [Sunny Sangha.UK](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)
+   - 🇱🇰 [Eranda Ginige.Sri Lanka](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)
+   - 🇹🇭 [Tristan Delecomte.Thailand](https://words.democracy.earth/where-ecopolitics-meets-cryptopolitics-fe0e1e338a44)
+   - 🇧🇷 [Diogo Busse.Brazil](https://words.democracy.earth/democracy-earth-announces-our-newest-ambassador-in-brazil-3f03bb7295e8)
+   - 🇦🇺 [Andrew Dave Chambers.Australia](https://words.democracy.earth/democracyearthambassadorperthandrewdavechambers-24929535e471)
+   - 🇺🇾 [Justin Graside.Uruguay](https://words.democracy.earth/democracy-earth-chicago-ambassador-hannah-wolfman-jones-wants-your-vote-on-the-blockchain-9e900a2bbc2b)
+   - 🇺🇸 [Hannah Wolfman-Jones.Chicago](https://words.democracy.earth/democracy-earth-chicago-ambassador-hannah-wolfman-jones-wants-your-vote-on-the-blockchain-9e900a2bbc2b)
    
    
    

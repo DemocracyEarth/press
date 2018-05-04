@@ -1,4 +1,4 @@
-## Democracy Earth Team 🌿
+## Democracy Earth Foundation 🌿
 # Santiago Siri.Founder.CEO
 "You may say that I'm a dreamer...but I'm not the only one."
 

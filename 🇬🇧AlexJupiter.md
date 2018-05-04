@@ -1,4 +1,4 @@
-## Democracy Earth Team 🌿
+## Democracy Earth Foundation 🌿
 # Alex Jupiter.Design
 "Conversational interfaces are the future."
 

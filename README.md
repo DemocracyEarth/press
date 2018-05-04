@@ -1,4 +1,4 @@
-# Democracy Earth Press Kit
+# Democracy Earth 🌿 Press Kit
 A set of resources about the Democracy Earth Foundation to share with journalists/media inquiries.
 
 This press kit repo includes: 

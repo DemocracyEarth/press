@@ -1,3 +1,4 @@
+## Democracy Earth Foundation 🌿
 # Andrey Bugayevsky.ICO
 "From a drop of water, you should be able to imagine ice, steam, oceans."
 

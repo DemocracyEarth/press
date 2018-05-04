@@ -1,3 +1,4 @@
+## Democracy Earth Foundation 🌿
 # Agatha Bacelar.Multimedia
 "You can’t understand most of the important things from a distance. You have to get close.” 
 

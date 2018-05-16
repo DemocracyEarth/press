@@ -18,7 +18,7 @@ This press kit repo includes:
    - 🇺🇸 [Agatha Bacelar.Multimedia](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%BA%F0%9F%87%B8Agatha%20Bacelar.md#democracy-earth-foundation-)
    - 🇮🇨 Raúl Kripalani
    - 🇺🇦 [Andrey Bugayevsky.ICO](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BA%F0%9F%87%A6Andrey%20Bugayevsky.md#democracy-earth-foundation-)
-   - 🇫🇷 Lucas Isasmendi
+   - 🇩🇪 Lucas Isasmendi
    - 🇬🇧 [Alex Jupiter.Design](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%AC%F0%9F%87%A7AlexJupiter.md#democracy-earth-foundation-)
     - 🇫🇷 Alessandro Chacón
   

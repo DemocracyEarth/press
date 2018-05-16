@@ -20,7 +20,7 @@ This press kit repo includes:
    - 🇺🇦 [Andrey Bugayevsky.ICO](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BA%F0%9F%87%A6Andrey%20Bugayevsky.md#democracy-earth-foundation-)
    - 🇩🇪 Lucas Isasmendi
    - 🇬🇧 [Alex Jupiter.Design](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%AC%F0%9F%87%A7AlexJupiter.md#democracy-earth-foundation-)
-    - 🇫🇷 Alessandro Chacón
+    -🇨🇭 Alessandro Chacón
   
 - Democracy Earth Ambassador Introductions
    - 🇬🇧 [Sunny Sangha.UK](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)

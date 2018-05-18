@@ -5,7 +5,7 @@ This press kit repo includes:
 
 - [🌎 About Democracy Earth](https://github.com/DemocracyEarth/press-kit/blob/master/About-DEF.md#about-democracy-earth-foundation)
 - [Logo](https://github.com/DemocracyEarth/press-kit/blob/master/logo.md)
-- [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/master/DEF-In-The-Media.md#democracy-earth-foundation-)
+- [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/master/Bibliography.md#democracy-earth-foundation-)
 
 - Team Bios: 
    - 🇦🇷 [Santiago Siri.Co-Founder.CEO](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%A6%F0%9F%87%B7Santi%20Siri.md#democracy-earth-foundation-)

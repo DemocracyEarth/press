@@ -30,6 +30,7 @@ This press kit repo includes:
    - 🇦🇺 [Andrew Dave Chambers.Australia](https://words.democracy.earth/democracyearthambassadorperthandrewdavechambers-24929535e471)
    - 🇺🇾 [Justin Graside.Uruguay](https://words.democracy.earth/democracy-earth-chicago-ambassador-hannah-wolfman-jones-wants-your-vote-on-the-blockchain-9e900a2bbc2b)
    - 🇺🇸 [Hannah Wolfman-Jones.Chicago](https://words.democracy.earth/democracy-earth-chicago-ambassador-hannah-wolfman-jones-wants-your-vote-on-the-blockchain-9e900a2bbc2b)
+   - 🇳🇱 [Maria Sofia Cossar Lambertini](https://words.democracy.earth/liquid-democracy-and-achieving-the-disruptors-dream-7abd48ccc524)
    
    
    

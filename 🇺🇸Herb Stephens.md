@@ -14,4 +14,4 @@ Herb was COO & CFO of Intershop (world’s first online catalog technology, IPO 
 
 Born in Flint, Michigan, Herb is the second of eight children in a household where both parents were small-business entrepreneurs. Herb "has worn a tool belt since he could walk!" Herb earned a bachelors degree in Financial Administration at Michigan State University and also studied math and computer science at University of Michigan. He has travelled, lived and worked all over the world (45 countries, and counting).  When not hacking for Democracy.Earth, Herb is an avid back country alpine heli-skier, snowboarder and mountain biker. Keep up with Herb on Twitter [@HerbStephens.](https://twitter.com/HerbStephens)
 
-[About Democracy Earth Foundation.](https://github.com/DemocracyEarth/press-kit/blob/master/README.md#democracy-earth-press-kit)
+[About Democracy Earth Foundation.](https://github.com/DemocracyEarth/press-kit/blob/master/About-DEF.md#about-democracy-earth-foundation)

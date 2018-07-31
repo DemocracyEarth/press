@@ -1,5 +1,5 @@
 ## Democracy Earth Foundation 🌿
-# Eduardo Medina.Developer
+# Eduardo Medina.CTO
 "[You know the story](https://medium.com/@medied/on-nations-and-money-70172be74f2b), decentralized blockchains and cryptocurrencies that altogether transcend physical borders"
 
 ![edu in the woods](https://user-images.githubusercontent.com/24529258/37480639-fbcddaf8-283c-11e8-976a-80f65332bbf0.jpg)

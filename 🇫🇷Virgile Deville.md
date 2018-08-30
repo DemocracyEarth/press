@@ -2,7 +2,8 @@
 # Virgile Deville.Europe
 "On the centralized web, the system administrators are the kings of our online democracies."
 
-![image](https://user-images.githubusercontent.com/24529258/44755184-fb90dc00-aad9-11e8-9369-e6edf7352e57.png)
+![virgiledeville headshot](https://user-images.githubusercontent.com/24529258/44840960-11e08a00-abf7-11e8-952f-f6e167998cb1.png)
+
 
 ## Virgile Deville🇫🇷
 

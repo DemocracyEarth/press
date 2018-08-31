@@ -2,8 +2,8 @@
 # Paula Berman.Embassies
 "Alone we go faster, but together we go further."
 
+<img width="363" alt="screen shot 2018-08-31 at 18 10 56" src="https://user-images.githubusercontent.com/18194034/44937827-45cbc480-ad49-11e8-9aa4-3fa1050afd40.png">
 
-![image](https://user-images.githubusercontent.com/24529258/37226722-b8f04bb4-238f-11e8-9945-a8846fa0d32d.png)
 
 ## Paula Berman🇧🇷 
 

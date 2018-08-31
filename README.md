@@ -11,7 +11,7 @@ This press kit repo includes:
    - 🇦🇷 [Santiago Siri.Co-Founder.CEO](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%A6%F0%9F%87%B7Santi%20Siri.md#democracy-earth-foundation-)
    - 🌎 [Pia Mancini.Co-Founder.Chair](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%8C%8EPia%20Mancini.md#democracy-earth-foundaton-)
    - 🇺🇸 [Herb Stephens.Co-Founder.Treasurer](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BA%F0%9F%87%B8Herb%20Stephens.md#democracy-earth-foundation-) 
-   - 🇫🇷 [Virgile Deville.Europe](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%AB%F0%9F%87%B7Virgile%20Deville.md#democracy-earth-foundation-)
+   - 🇫🇷 [Virgile Deville.Co-Founder.Europe](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%AB%F0%9F%87%B7Virgile%20Deville.md#democracy-earth-foundation-)
    - 🇺🇸 [Sandra Miller.Communications](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BA%F0%9F%87%B8Sandra%20Miller.md#democracy-earth-foundation-) 
    - 🇧🇷 [Paula Berman.Embassies](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%A7%F0%9F%87%B7Paula%20Berman.md#democracy-earth-foundation-)
    - 🇻🇪 [Eduardo Medina.CTO](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BB%F0%9F%87%AAEduardo%20Medina.md#democracy-earth-foundation-)

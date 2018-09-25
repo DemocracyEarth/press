@@ -2,7 +2,8 @@
 # Santiago Siri.Founder.CEO
 "You may say that I'm a dreamer...but I'm not the only one."
 
-[![image](https://user-images.githubusercontent.com/24529258/46040302-bfdf3700-c0c4-11e8-9b30-463fd0377c0a.png)](http://bit.ly/2Mn2MjM)
+[![image](https://user-images.githubusercontent.com/24529258/46040994-97f0d300-c0c6-11e8-8c91-36ebbf9f70f7.png)
+](http://bit.ly/2Mn2MjM)
 
 ## Santi Siri🇦🇷
 

@@ -22,7 +22,7 @@ This press kit repo includes:
    - 🇬🇧 [Alex Jupiter.Design](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%AC%F0%9F%87%A7AlexJupiter.md#democracy-earth-foundation-)
    - 🇻🇪 [Alessandro Chacón.Developer](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BB%F0%9F%87%AAAlessandro-Chac%C3%B3n.md)
   
-  # 🌿 Democracy Earth Ambassadors
+  # 🌿 Democracy Earth Ambassador Profiles
 - Democracy Earth Ambassador Introductions
    - 🇬🇧 [Sunny Sangha.UK](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)
    - 🇱🇰 [Eranda Ginige.Sri Lanka](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)

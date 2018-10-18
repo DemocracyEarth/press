@@ -1,13 +1,13 @@
-# 🌿 Democracy Earth Press Kit
+# 🌎 Democracy Earth Press Kit
 A set of resources about the Democracy Earth Foundation to share with journalists/media inquiries.
 
 This press kit repo includes: 
 
-- [🌿 About Democracy Earth](https://github.com/DemocracyEarth/press-kit/blob/master/About-DEF.md#about-democracy-earth-foundation)
+- [🌎 About Democracy Earth](https://github.com/DemocracyEarth/press-kit/blob/master/About-DEF.md#about-democracy-earth-foundation)
 - [Logo](https://github.com/DemocracyEarth/press-kit/blob/master/logo.md)
 - [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/master/Bibliography.md#democracy-earth-foundation-) DEF in the media, including TED Talks, podcasts, press mentions, DEF publications
 
-# Democracy Earth Team Bios
+# 🌎 Democracy Earth Team Bios
    - 🇦🇷 [Santiago Siri.Co-Founder.CEO](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%A6%F0%9F%87%B7Santi%20Siri.md#democracy-earth-foundation-)
    - 🌎 [Pia Mancini.Co-Founder.Chair](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%8C%8EPia%20Mancini.md#democracy-earth-foundaton-)
    - 🇺🇸 [Herb Stephens.Co-Founder.Treasurer](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BA%F0%9F%87%B8Herb%20Stephens.md#democracy-earth-foundation-) 
@@ -22,7 +22,7 @@ This press kit repo includes:
    - 🇬🇧 [Alex Jupiter.Design](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%AC%F0%9F%87%A7AlexJupiter.md#democracy-earth-foundation-)
    - 🇻🇪 [Alessandro Chacón.Developer](https://github.com/DemocracyEarth/press-kit/blob/master/%F0%9F%87%BB%F0%9F%87%AAAlessandro-Chac%C3%B3n.md)
   
-  # 🌿 Democracy Earth Ambassador Profiles
+  # 🌎 Democracy Earth Ambassador Profiles
 - Democracy Earth Ambassador Introductions
    - 🇬🇧 [Sunny Sangha.UK](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)
    - 🇱🇰 [Eranda Ginige.Sri Lanka](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)

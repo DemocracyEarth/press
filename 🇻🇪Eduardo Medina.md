@@ -2,7 +2,7 @@
 # Eduardo Medina.CTO
 "[You know the story](https://medium.com/@medied/on-nations-and-money-70172be74f2b), decentralized blockchains and cryptocurrencies that altogether transcend physical borders"
 
-![edu in the woods](https://user-images.githubusercontent.com/24529258/37480639-fbcddaf8-283c-11e8-976a-80f65332bbf0.jpg)
+![edu](https://user-images.githubusercontent.com/24529258/47260499-9fab5980-d471-11e8-86fa-507c32e4ba96.jpeg)
 
 ## Eduardo Medina🇻🇪
 
@@ -12,3 +12,5 @@ As a member of the [Venezuelan diaspora](https://words.democracy.earth/blockchai
 
 [About Democracy Earth Foundation.](https://github.com/DemocracyEarth/press-kit/blob/master/README.md#democracy-earth-press-kit)
 
+### Gallery
+![edu in the woods](https://user-images.githubusercontent.com/24529258/37480639-fbcddaf8-283c-11e8-976a-80f65332bbf0.jpg)

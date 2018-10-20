@@ -13,4 +13,7 @@ As a member of the [Venezuelan diaspora](https://words.democracy.earth/blockchai
 [About Democracy Earth Foundation.](https://github.com/DemocracyEarth/press-kit/blob/master/README.md#democracy-earth-press-kit)
 
 ### Gallery
+Eduardo pictured with Santiago Siri, New York, August 2018
+![with eduardo medina](https://user-images.githubusercontent.com/24529258/47260527-2eb87180-d472-11e8-8b23-613e6c8804d1.jpg)
+at the Democracy Earth Tahoe MeetUp, Caifornia, December 2017
 ![edu in the woods](https://user-images.githubusercontent.com/24529258/37480639-fbcddaf8-283c-11e8-976a-80f65332bbf0.jpg)

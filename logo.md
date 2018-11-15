@@ -4,7 +4,7 @@
 ### Rectangular logo color background horizontal
 ![def logo-01](https://user-images.githubusercontent.com/24529258/38908580-d421389e-4275-11e8-8b31-2b238fff5bd4.png)
 
-### Rectangular logo transparent background stacked
+### Rectangular logo transparent stacked
 ![def logo-02](https://user-images.githubusercontent.com/24529258/38908581-d43c2352-4275-11e8-9e91-35ed4028deea.png)
 
 ### Rectangular logo color background stacked 

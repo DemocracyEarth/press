@@ -1,4 +1,4 @@
-### Square logo transparent stacked
+# Square logo transparent stacked
 ![250x250transparentlogodef](https://user-images.githubusercontent.com/24529258/48518883-dc276680-e81f-11e8-9750-0eb0bf1f5269.png)
 
 ### Rectangular logo color background horizontal

@@ -25,6 +25,7 @@ This press kit repo includes:
   # 🌎 Democracy Earth Ambassador Profiles
 - Meet our Democracy Earth Ambassadors
    - 🇬🇧 [Sunny Sangha.UK](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)
+   - 🇧🇪 [Liliana Carrillo](https://www.linkedin.com/in/carrilloliliana/)  
    - 🇱🇰 [Eranda Ginige.Sri Lanka](https://words.democracy.earth/meet-our-new-ambassador-eranda-ginige-from-sri-lanka-ec6f704c1422)
    - 🇹🇭 [Tristan Delecomte.Thailand](https://words.democracy.earth/where-ecopolitics-meets-cryptopolitics-fe0e1e338a44)
    - 🇧🇷 [Diogo Busse.Brazil](https://words.democracy.earth/democracy-earth-announces-our-newest-ambassador-in-brazil-3f03bb7295e8)

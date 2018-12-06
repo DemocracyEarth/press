@@ -4,6 +4,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/24529258/39639123-3648ddba-4f7d-11e8-92a7-54a2bbc2b2aa.png)
+![def_team headshots_8](https://user-images.githubusercontent.com/24529258/49604728-86883a80-f943-11e8-9385-494a2ecafde9.jpg)
+
 
 
 ## Alex Jupiter🇬🇧 
